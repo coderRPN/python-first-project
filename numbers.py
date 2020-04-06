@@ -1,0 +1,15 @@
+from math import *
+
+print(5)
+print(abs(-4))
+print(abs(4.4))
+print(str(22))
+print(pow(4, 5))
+print(max(4, 8))
+print(min(4, 8))
+print(round(4.3))
+print(round(4.6))
+print(round(4.5))
+print("Floor 4.9 to " + str(floor(4.9)))
+print("Ceiling 4.1 to " + str(ceil(4.1)))
+print("Square root of 25 is " + str(sqrt(25)))
