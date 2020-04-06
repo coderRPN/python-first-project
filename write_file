@@ -1,0 +1,9 @@
+with open("friends.txt", "a") as file:
+    if file.writable():
+        file.write("\nKolkuri")
+
+    print("---------------------")
+
+with open("other_friends", "w") as file2:
+    if file2.writable():
+        file2.write("Vamshi")

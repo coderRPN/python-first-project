@@ -11,6 +11,6 @@ for index in range(3, 10):
     print(index)
 
 for index in range(len(friends)):
-    print(friends[index])
+    print(friends[index], end=", ")
 
 print(2**9)

@@ -1,0 +1,14 @@
+with open("friends.txt", "r") as file:
+    if file.readable():
+        for line in file:
+            print(line)
+
+    print("---------------------")
+
+    file.seek(0)
+    for line in file.readlines():
+        print(line, end="")
+
+# TODO : Check if above can be done with While loop
+
+
