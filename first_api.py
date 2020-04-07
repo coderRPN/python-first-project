@@ -10,7 +10,7 @@ def jprint(obj):
 
 parameters = {
     "function": "TIME_SERIES_DAILY_ADJUSTED",
-    "symbol": "IBM",
+    "symbol": "BTCGBP",
     "apikey": "FMYE8JOCVC65C1JM"
 }
 
