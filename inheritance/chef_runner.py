@@ -1,5 +1,5 @@
-from inheritence.Chef import Chef
-from inheritence.IndianChef import IndianChef
+from inheritance.Chef import Chef
+from inheritance.IndianChef import IndianChef
 
 chef = Chef()
 chef.make_pasta()

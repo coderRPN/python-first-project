@@ -1,4 +1,4 @@
-from inheritence.Chef import Chef
+from inheritance.Chef import Chef
 
 
 class IndianChef(Chef):
